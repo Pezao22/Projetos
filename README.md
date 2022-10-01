@@ -1,2 +1,2 @@
 # Projetos
-Calculadora em C 
+Um dos meus primiros projetos em C
